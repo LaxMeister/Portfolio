@@ -13,7 +13,7 @@ export const WorkState = () => {
         {
           title: "JaktMeister - A hunting app for senior hunters",
           description:
-            "This is one of my intern projects. The Project was to create an app for senior hunters to use. The goal was to create a simple app without complex features.",
+            "This is one of my intern projects at Xlent. The Project was to create an app for senior hunters to use. The goal was to create a simple app without complex features.",
           git: "https://github.com/LaxMeister/JaktMeister",
         },
       ],

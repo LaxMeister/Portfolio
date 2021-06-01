@@ -52,6 +52,9 @@ const WorkDetail = () => {
 
 const Details = styled(motion.div)`
   color: white;
+  @media (max-width: 500px) {
+    overflow: hidden;
+  }
 `;
 const HeadLine = styled.div`
   min-height: 90vh;
@@ -68,6 +71,15 @@ const HeadLine = styled.div`
     height: 70vh;
     object-fit: cover;
   }
+  @media (max-width: 1300px) {
+    position: relative;
+
+    img {
+      width: 100%;
+      height: auto;
+      padding: 0;
+    }
+  }
   @media (max-width: 500px) {
     position: relative;
     h2 {
@@ -78,6 +90,8 @@ const HeadLine = styled.div`
       padding-bottom: 30rem;
     }
     img {
+      width: 100%;
+      height: auto;
       padding: 0;
     }
   }
@@ -144,6 +158,9 @@ const AwardStyle = styled.div`
   }
   @media (max-width: 1300px) {
     padding: 0;
+    min-height: 100vh;
+    min-width: 80vw;
+    margin-top: -20rem;
     a,
     .a1,
     .a2,
@@ -159,6 +176,9 @@ const AwardStyle = styled.div`
     padding: 0rem;
     margin-left: -9rem;
     margin-right: -9rem;
+    margin-top: -70rem;
+    min-width: 80vw;
+    min-height: 60vh;
 
     h3 {
       width: 100%;
