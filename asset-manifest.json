@@ -1,32 +1,28 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.e103b92c.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.e103b92c.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.c0d69ea2.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.c0d69ea2.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.e4d730d0.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e4d730d0.js.map",
-    "static/js/2.e5041cc6.chunk.js": "/Portfolio/static/js/2.e5041cc6.chunk.js",
-    "static/js/2.e5041cc6.chunk.js.map": "/Portfolio/static/js/2.e5041cc6.chunk.js.map",
+    "static/js/2.37a81e96.chunk.js": "/Portfolio/static/js/2.37a81e96.chunk.js",
+    "static/js/2.37a81e96.chunk.js.map": "/Portfolio/static/js/2.37a81e96.chunk.js.map",
     "static/js/3.7f22bf71.chunk.js": "/Portfolio/static/js/3.7f22bf71.chunk.js",
     "static/js/3.7f22bf71.chunk.js.map": "/Portfolio/static/js/3.7f22bf71.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/js/2.e5041cc6.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.e5041cc6.chunk.js.LICENSE.txt",
+    "static/js/2.37a81e96.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.37a81e96.chunk.js.LICENSE.txt",
     "static/media/JaktMeister.2726ab87.png": "/Portfolio/static/media/JaktMeister.2726ab87.png",
     "static/media/NeonMe.1a336a53.png": "/Portfolio/static/media/NeonMe.1a336a53.png",
-    "static/media/athlete2.b216a5ad.png": "/Portfolio/static/media/athlete2.b216a5ad.png",
     "static/media/clock.4b7cde7e.svg": "/Portfolio/static/media/clock.4b7cde7e.svg",
     "static/media/construction2.81f2c72f.png": "/Portfolio/static/media/construction2.81f2c72f.png",
     "static/media/diaphragm.db801491.svg": "/Portfolio/static/media/diaphragm.db801491.svg",
-    "static/media/good-times2.4ea1be17.jpg": "/Portfolio/static/media/good-times2.4ea1be17.jpg",
     "static/media/money.72da7c48.svg": "/Portfolio/static/media/money.72da7c48.svg",
     "static/media/reachmoonEdit.c9a7509c.png": "/Portfolio/static/media/reachmoonEdit.c9a7509c.png",
     "static/media/rentakneg2.f2f88bb9.png": "/Portfolio/static/media/rentakneg2.f2f88bb9.png",
-    "static/media/teamwork.aa71db2e.svg": "/Portfolio/static/media/teamwork.aa71db2e.svg",
-    "static/media/the-racer2.580f15cd.jpg": "/Portfolio/static/media/the-racer2.580f15cd.jpg",
-    "static/media/theracer-small.51874213.png": "/Portfolio/static/media/theracer-small.51874213.png"
+    "static/media/teamwork.aa71db2e.svg": "/Portfolio/static/media/teamwork.aa71db2e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e4d730d0.js",
-    "static/js/2.e5041cc6.chunk.js",
-    "static/js/main.e103b92c.chunk.js"
+    "static/js/2.37a81e96.chunk.js",
+    "static/js/main.c0d69ea2.chunk.js"
   ]
 }
