@@ -37,7 +37,9 @@ const AboutSection = () => {
         </motion.div>
         <motion.p variants={fade}>Contact me for any job offer</motion.p>
         <Link to="/contact" style={{ textDecorationLine: "none" }}>
-          <Button variants={fade}>Contact me</Button>
+          <Button className="button" variants={fade}>
+            Contact me
+          </Button>
         </Link>
       </Description>
       <Image>

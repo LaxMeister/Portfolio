@@ -77,6 +77,15 @@ const Work = styled(motion.div)`
     color: white;
     padding: 1rem 0rem;
   }
+  @media (max-width: 500px) {
+    padding: 0;
+
+    h2 {
+      font-size: 3rem;
+      text-align: center;
+      padding: 2rem;
+    }
+  }
 `;
 const Movie = styled(motion.div)`
   padding-bottom: 10rem;
@@ -89,6 +98,19 @@ const Movie = styled(motion.div)`
     width: 100%;
     height: 70vh;
     object-fit: cover;
+  }
+  @media (max-width: 1300px) {
+    img {
+      width: 100%;
+      height: auto;
+      overflow: hidden;
+      padding: 0;
+    }
+  }
+  @media (max-width: 500px) {
+    img {
+      padding: 2rem;
+    }
   }
 `;
 const Hide = styled.div`

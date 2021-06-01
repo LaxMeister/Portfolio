@@ -68,6 +68,19 @@ const HeadLine = styled.div`
     height: 70vh;
     object-fit: cover;
   }
+  @media (max-width: 500px) {
+    position: relative;
+    h2 {
+      width: 100%;
+      font-size: 4rem;
+      text-align: center;
+      margin-bottom: 20rem;
+      padding-bottom: 30rem;
+    }
+    img {
+      padding: 0;
+    }
+  }
 `;
 
 const Awards = styled.div`
@@ -129,6 +142,40 @@ const AwardStyle = styled.div`
       color: white;
     }
   }
+  @media (max-width: 1300px) {
+    padding: 0;
+    a,
+    .a1,
+    .a2,
+    .a3 {
+      display: block;
+      padding: 1rem;
+      width: 50%;
+      margin-bottom: 2rem;
+      margin-left: 0rem;
+    }
+  }
+  @media (max-width: 500px) {
+    padding: 0rem;
+    margin-left: -9rem;
+    margin-right: -9rem;
+
+    h3 {
+      width: 100%;
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    a,
+    .a1,
+    .a2,
+    .a3 {
+      display: block;
+      padding: 1rem;
+      width: 80%;
+      margin-bottom: 2rem;
+      margin-left: 0rem;
+    }
+  }
 `;
 
 const ImageDisplay = styled.div`
@@ -160,7 +207,7 @@ const Buttonalt = styled.a`
 //Award Component
 const Award = ({ title, description, git, git2, git3 }) => {
   console.log(title);
-  if (title === "Rent-a-Kengbil Car Rental Service") {
+  if (title === "Rent-a-Knegbil - Car Rental Service") {
     return (
       <AwardStyle>
         <h3>{title}</h3>

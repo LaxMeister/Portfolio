@@ -55,6 +55,18 @@ const Info = styled(BasicLayout)`
     background: #23d997;
     margin-bottom: 2rem;
   }
+  @media (max-width: 1300px) {
+    padding: 0rem;
+    p {
+      margin: 0rem 10rem 0rem 10rem;
+    }
+  }
+  @media (max-width: 500px) {
+    padding: 0rem;
+    p {
+      margin: 0rem 5rem 0rem 5rem;
+    }
+  }
 `;
 
 export default InfoSection;
