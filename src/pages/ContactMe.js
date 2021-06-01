@@ -36,7 +36,7 @@ const ContactMe = () => {
           <Social variants={titleAnimation}>
             <Circle />
             <a className="a2" href="mailto:fredrik.lax@gmail.com">
-              Send me a Email
+              Send me an Email
             </a>
           </Social>
         </Hide>

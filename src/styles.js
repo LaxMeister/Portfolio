@@ -34,9 +34,20 @@ export const Hide = styled.div`
   overflow: hidden;
 `;
 
-export const Button = styled(motion.button)`
-  :hover {
-    background: #23d997;
+export const Button = styled(motion.a)`
+  width: 11rem;
+  font-weight: bold;
+  font-size: 1.1.rem;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  border: 3px solid #23d997;
+  background: transparent;
+  color: white;
+  transition: all 0.5s ease;
+  font-family: "Inter", sans-serif;
+  text-decoration: none;
+  &:hover {
+    background-color: #23d997;
     color: white;
   }
 `;

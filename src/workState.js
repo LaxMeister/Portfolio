@@ -1,10 +1,6 @@
 //Import Images
 import jaktmeister from "./img/JaktMeister.png";
 import rentAkneg from "./img/rentakneg2.png";
-import theracer from "./img/theracer-small.png";
-import athlete2 from "./img/athlete2.png";
-import goodtimes2 from "./img/good-times2.jpg";
-import theracer2 from "./img/the-racer2.jpg";
 
 export const WorkState = () => {
   return [
@@ -15,9 +11,9 @@ export const WorkState = () => {
 
       awards: [
         {
-          title: "JaktMeister a hunting app for senior hunters",
+          title: "JaktMeister - A hunting app for senior hunters",
           description:
-            "This is one of my interm projects. The Project was to create a app for senior hunters to use. The goal was to create a simple app without complex features.",
+            "This is one of my intern projects. The Project was to create an app for senior hunters to use. The goal was to create a simple app without complex features.",
           git: "https://github.com/LaxMeister/JaktMeister",
         },
       ],
@@ -28,7 +24,7 @@ export const WorkState = () => {
       url: "/work/rent-a-knegbil",
       awards: [
         {
-          title: "Rent-a-Kengbil Car Rental Service",
+          title: "Rent-a-Knegbil - Car Rental Service",
           description:
             "This is one of my school assignments. The assignment was to create a car rental Service with a REST backend and a SPA frontend for the backend",
           git: "https://github.com/LaxMeister/Rent-a-Knegbil-Customer-Spa",

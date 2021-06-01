@@ -61,7 +61,7 @@ const MyWork = () => {
         initial="hidden"
         ref={element2}
       >
-        <h2>More projects will come.</h2>
+        <h2>More projects to come.</h2>
         <motion.div variants={lineAnimation} className="line"></motion.div>
         <img src={construction} alt="goodtimes" />
       </Movie>

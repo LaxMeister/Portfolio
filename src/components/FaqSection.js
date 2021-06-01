@@ -19,18 +19,18 @@ const FaqSection = () => {
         Any questions <span>FAQ</span>
       </h2>
       <AnimateSharedLayout>
-        <Toggle title="What is your short term carrer goal?">
+        <Toggle title="What is your short term career goal?">
           <div className="answer">
             <p>
-              My short term carrer goal is to gain a foothold in the industry
+              My short term career goal is to gain a foothold in the industry
             </p>
             <p>and to develop my skills as a system developer.</p>
           </div>
         </Toggle>
-        <Toggle title="What is your long term carrer goal?">
+        <Toggle title="What is your long term career goal?">
           <div className="answer">
             <p>
-              My long term carrer goal Is to become a full-stack developer.{" "}
+              My long term career goal Is to become a full-stack developer.{" "}
             </p>
             <p>
               To be the developer that people goes to when they have questions.
@@ -41,7 +41,7 @@ const FaqSection = () => {
           <div className="answer">
             <p>The best part is the problem solving.</p>
             <p>
-              The feeling you get when you find a good solution on a hard solved
+              The feeling you get when you find a good solution for a difficult
               problem.
             </p>
           </div>

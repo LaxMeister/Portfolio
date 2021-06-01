@@ -30,14 +30,16 @@ const KnowledgeSection = () => {
               <img src={clock} alt="clock" />
               <h3>Fast learner</h3>
             </div>
-            <p>Im a fast learner don't need much time to learn new things.</p>
+            <p>I'm a fast learner don't need much time to learn new things.</p>
           </Card>
           <Card>
             <div className="icon">
               <img src={teamwork} alt="teamwork" />
               <h3>Teamwork</h3>
             </div>
-            <p>I love to work in teams. Working together is success</p>
+            <p>
+              I love to work in teams.<br></br> Working together = Success
+            </p>
           </Card>
           <Card>
             <div className="icon">
