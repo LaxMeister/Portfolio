@@ -33,7 +33,7 @@ const FaqSection = () => {
               My long term career goal Is to become a full-stack developer.{" "}
             </p>
             <p>
-              To be the developer that people goes to when they have questions.
+              To be the developer that people go to when they have questions.
             </p>
           </div>
         </Toggle>
