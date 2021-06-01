@@ -36,9 +36,9 @@ const AboutSection = () => {
           </Hide>
         </motion.div>
         <motion.p variants={fade}>Contact me for any job offer</motion.p>
-        <Button variants={fade} href="/Portfolio/contact">
-          Contact me
-        </Button>
+        <Link to="/contact" style={{ textDecorationLine: "none" }}>
+          <Button variants={fade}>Contact me</Button>
+        </Link>
       </Description>
       <Image>
         <motion.img variants={photoAnimation} src={NeonMe} alt="Me" />
