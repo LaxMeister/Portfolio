@@ -46,7 +46,7 @@ const FaqSection = () => {
             </p>
           </div>
         </Toggle>
-        <Toggle title="What is your sprirt animal?">
+        <Toggle title="What is your spirit animal?">
           <div className="answer">
             <p>Raccoons (trash pandas).</p>
             <p>Smart, lives in small packs and loves food.</p>
