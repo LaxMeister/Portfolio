@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.c968789d.chunk.js",
-    "main.js.map": "/static/js/main.c968789d.chunk.js.map",
+    "main.js": "/static/js/main.cea43a70.chunk.js",
+    "main.js.map": "/static/js/main.cea43a70.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e4d730d0.js",
     "runtime-main.js.map": "/static/js/runtime-main.e4d730d0.js.map",
-    "static/js/2.e5041cc6.chunk.js": "/static/js/2.e5041cc6.chunk.js",
-    "static/js/2.e5041cc6.chunk.js.map": "/static/js/2.e5041cc6.chunk.js.map",
+    "static/js/2.e48a213b.chunk.js": "/static/js/2.e48a213b.chunk.js",
+    "static/js/2.e48a213b.chunk.js.map": "/static/js/2.e48a213b.chunk.js.map",
     "static/js/3.7f22bf71.chunk.js": "/static/js/3.7f22bf71.chunk.js",
     "static/js/3.7f22bf71.chunk.js.map": "/static/js/3.7f22bf71.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.e5041cc6.chunk.js.LICENSE.txt": "/static/js/2.e5041cc6.chunk.js.LICENSE.txt",
+    "static/js/2.e48a213b.chunk.js.LICENSE.txt": "/static/js/2.e48a213b.chunk.js.LICENSE.txt",
     "static/media/JaktMeister.2726ab87.png": "/static/media/JaktMeister.2726ab87.png",
     "static/media/NeonMe.1a336a53.png": "/static/media/NeonMe.1a336a53.png",
     "static/media/clock.4b7cde7e.svg": "/static/media/clock.4b7cde7e.svg",
@@ -22,7 +22,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e4d730d0.js",
-    "static/js/2.e5041cc6.chunk.js",
-    "static/js/main.c968789d.chunk.js"
+    "static/js/2.e48a213b.chunk.js",
+    "static/js/main.cea43a70.chunk.js"
   ]
 }
