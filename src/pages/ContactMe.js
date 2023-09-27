@@ -28,7 +28,7 @@ const ContactMe = () => {
               className="a1"
               href="https://www.linkedin.com/in/fredrik-lax-0443728a/"
             >
-              Send me a message
+              Message me on LinkedIn
             </a>
           </Social>
         </Hide>

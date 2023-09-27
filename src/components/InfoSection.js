@@ -23,19 +23,15 @@ const InfoSection = () => {
           Who <span>is</span> Fredrik Lax
         </h2>
         <motion.div variants={lineAnimation} className="line"></motion.div>
+         
         <p>
-          I am a former automations engineer that decided to chase my dream to
-          become a system developer. Ever since third grade i always dreamt
-          about being a system developer. It took me a while to get here but now
-          i'm here and i am ready for new challenges.<br></br>
-          <br></br> What i learned during my education is creating, maintaining
-          and further develop technical solutions such as cloud services and web
-          applications. All with the focus of Java and JavaScript.<br></br>I
-          love to work in projects as a team because of the comradeship and
-          knowledge sharing. Everybody has a common goal and the process of
-          getting it done is so fun and satisfying.<br></br>
-          <br></br> In my free time I spend time with the family, fish, play
-          disc golf and tinker with small home projects.
+        Having transitioned from an automation engineer to a system developer, I have since accrued two years of invaluable experience in this dynamic field. My journey to realizing my dream of becoming a system developer, which began in my childhood, has culminated in my current position, where I am poised and enthusiastic about taking on new challenges.
+<br></br><br></br>
+My educational background has provided me with a robust foundation in the creation, maintenance, and advancement of technical solutions, particularly within the realms of Process orchestration, Ai, cloud services and web applications. I have honed my skills in Java and JavaScript, and over the past two years, I have further refined my expertise through practical application in the professional landscape.
+<br></br><br></br>
+Working collaboratively on projects remains a key facet of my role, as I thrive on the camaraderie and knowledge sharing that emerges within a team environment. The pursuit of a common goal, coupled with the enjoyable and gratifying process of achieving it, continues to be a source of motivation for me.
+<br></br><br></br>
+In my leisure time, I balance my professional pursuits with quality moments spent with my family, leisure activities such as fishing and disc golf, and engaging in small-scale home projects. This multifaceted approach to life enriches my experiences and contributes to my overall well-being.
         </p>
       </Description>
     </Info>

@@ -22,7 +22,7 @@ const AboutSection = () => {
       <Description>
         <motion.div>
           <Hide>
-            <motion.h2 variants={titleAnimation}>Experienced </motion.h2>
+            <motion.h2 variants={titleAnimation}>Experienced</motion.h2>
           </Hide>
           <Hide>
             <motion.h2 variants={titleAnimation}>
