@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.1",
   "private": false,
-  "homepage": "https://laxMeister.github.io/Portfolio/",
+  "homepage": "https://laxMeister.github.io/Portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
